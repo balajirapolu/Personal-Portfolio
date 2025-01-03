@@ -1,0 +1,68 @@
+NOTE:THIS IS JUST A CV TEMPLATE
+
+Curriculum Vitae
+
+Personal Information
+
+Name: [Your Full Name]  
+Address: [Your Address]  
+Phone: [Your Phone Number]  
+Email: [Your Email Address]  
+LinkedIn: [Your LinkedIn Profile]  
+Website/Portfolio: [Your Website or Portfolio]  
+
+Objective
+
+[Write a brief statement about your career goals and what you aim to achieve in the role you’re applying for.]
+
+Education
+
+[Degree Name, e.g., Bachelor of Science in Computer Science]  
+[University Name], [Location]  
+[Month, Year] - [Month, Year or "Present"]  
+
+- Relevant coursework: [List key subjects or projects relevant to the job.]
+- Achievements: [Mention academic achievements, scholarships, or honors.]
+
+Work Experience
+
+[Job Title]  
+[Company Name], [Location]  
+[Month, Year] - [Month, Year or "Present"]  
+
+- [Key responsibility or achievement #1.]
+- [Key responsibility or achievement #2.]
+- [Key responsibility or achievement #3.]
+
+[Job Title]  
+[Company Name], [Location]  
+[Month, Year] - [Month, Year or "Present"]  
+
+- [Key responsibility or achievement #1.]
+- [Key responsibility or achievement #2.]
+- [Key responsibility or achievement #3.]
+
+Skills
+
+- Technical Skills: [List technical skills, e.g., programming languages, software tools.]
+- Soft Skills: [List interpersonal or organizational skills.]
+- Languages: [List languages you speak and your proficiency level.]
+
+Projects
+
+[Project Title]  
+[Brief description of the project, your role, and its outcome. Highlight achievements or technical skills used.]
+
+[Project Title]  
+[Brief description of the project, your role, and its outcome. Highlight achievements or technical skills used.]
+
+Certifications
+
+- [Certification Name], [Issuing Organization], [Year]  
+- [Certification Name], [Issuing Organization], [Year]
+
+Interests
+
+[List hobbies or interests that showcase your personality or align with the job role.]
+
+
