@@ -9,13 +9,13 @@
 .main{  
     background-color: beige;
     width:100vw;
-    height: 200vh;
+    height: 100vh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
 .sidebar{
     position:absolute;
-    height:200vh;
+    height:100vh;
     background-color: blueviolet;
     width: 250px;
     font-family: "PT Sans", serif;
@@ -170,10 +170,26 @@
     transform:translate(-200px,0px);
     position:absolute;
 }
-@media (max-width:900px){
-    /* .sidebar{
-        transform:translate(-240px,0px);
-        position:absolute;
-    } */
-    
+@media (max-width:1155px){
+    .main{
+        height:300vh;
+    }
+    .sidebar{
+        height:300vh;
+    }
+    .blogcontainer{
+        height:280vh;
+    }
+    .infoContainer{
+        height:250vh;
+    }
+    .infoContainer2{
+        height:250vh;
+    }
+    .infoContainer3{
+        height:250vh;
+    }
+    .contactform{
+        height:100vh;
+    }
 }
