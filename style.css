@@ -178,7 +178,7 @@
         height:300vh;
     }
     .blogcontainer{
-        height:280vh;
+        height:200vh;
     }
     .infoContainer{
         height:130vh;
@@ -191,5 +191,57 @@
     }
     .contactform{
         height:100vh;
+    }
+}
+@media (max-width:500px){
+    .main{
+        height:300vh;
+    }
+    .sidebar{
+        height:300vh;
+    }
+    .blogcontainer{
+        height:200vh;
+    }
+    .infoContainer{
+        height:120vh;
+    }
+    .infoContainer2{
+        height:170vh;
+    }
+    .infoContainer3{
+        height:170vh;
+    }
+    .contactform{
+        height:100vh;
+    }
+}
+@media (max-width: 768px) {
+    .infoContainer {
+        flex-direction: column;
+        padding: 10px;
+        align-items: center;
+    }
+    .pic img {
+        width: 90%;
+        height: auto;
+    }
+    .hello, .name, .about {
+        font-size: 1.5rem; /* Scale font sizes */
+        text-align: center;
+    }
+    .buttons {
+        flex-direction: column;
+        gap: 15px;
+    }
+    .sidebar {
+        position: fixed; /* Make it overlay on smaller screens */
+        transform: translateX(-250px);
+    }
+    .sidebar.sidebargo {
+        transform: translateX(0);
+    }
+    .hamburger {
+        z-index: 10; /* Ensure it's above other elements */
     }
 }
