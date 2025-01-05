@@ -201,16 +201,16 @@
         height:300vh;
     }
     .blogcontainer{
-        height:200vh;
+        height:230vh;
     }
     .infoContainer{
         height:120vh;
     }
     .infoContainer2{
-        height:170vh;
+        height:190vh;
     }
     .infoContainer3{
-        height:170vh;
+        height:190vh;
     }
     .contactform{
         height:100vh;
@@ -233,10 +233,11 @@
     .buttons {
         flex-direction: column;
         gap: 15px;
+        width:200px;
     }
     .sidebar {
-        position: fixed; /* Make it overlay on smaller screens */
-        transform: translateX(-250px);
+        position: absolute; /* Make it overlay on smaller screens */
+        transform: translateX(-200px);
     }
     .sidebar.sidebargo {
         transform: translateX(0);
