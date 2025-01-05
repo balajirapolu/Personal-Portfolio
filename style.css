@@ -221,10 +221,13 @@
         flex-direction: column;
         padding: 10px;
         align-items: center;
+        margin-top: 30px;
+        margin-left: 80px;
     }
     .pic img {
         width: 90%;
         height: auto;
+        
     }
     .hello, .name, .about {
         font-size: 1.5rem; /* Scale font sizes */
@@ -234,15 +237,29 @@
         flex-direction: column;
         gap: 15px;
         width:200px;
+        align-items: center;
+        margin-left: 20px;
     }
-    .sidebar {
-        position: absolute; /* Make it overlay on smaller screens */
+    /* .sidebar {
+        position: absolute; // Make it overlay on smaller screens 
         transform: translateX(-200px);
     }
     .sidebar.sidebargo {
         transform: translateX(0);
-    }
+    } */
     .hamburger {
         z-index: 10; /* Ensure it's above other elements */
+    }
+    .blogcontainer{
+       margin-left: 80px;
+    }
+    .infoContainer2{
+        margin-left: 80px;
+    }
+    .infoContainer3{
+        margin-left: 80px;
+    }
+    .contactform{
+        margin-left: 80px;
     }
 }
